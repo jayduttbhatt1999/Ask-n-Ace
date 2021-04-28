@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-vine-311103",
+  "private_key_id": "0e846e0707e45b091f4aecb6257c05173385ea28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvTm3BrZZ2kN2V\nR9pc0Jsg3fVk52GkfQOUHBHhNMdx00k+SY0HWe6Vn8JnGku0opnEoeBb1OIp/r5i\nuEc7QIXXL4IX1IbYH3qHuGs1wVthL2iyFQIATmq7m9sD97OZBuXSz9Z1he8umvnV\n4kiDQN4RBTxrrLYD4HmvUq5A3WnQ7kkDTGb38w3dC0qliMS0JWmPT/3eWhefXTvY\nXjzkVB/tFs+ZIlyyG8/I7+nM2rUB7wuT6JjXt6FqB+6U5wIvq2A7o+6AQOGO1qwN\n0k3jto4Vp1L5Vk63MuPxACtROCU16/Rsb/5i4FxZZyxY0T/g639JfCoU/NdX10Rg\nIm+w9bJbAgMBAAECggEAGOBXEyvtVS+IagW+DFFZJL2qdAz2Hk/TzAF8Xgn4dVlc\npDdECR4vYicUqz8gLWaszaovkAhyUYWXLE4RuZbrMdZ0LlUtD1/O1Oc2u3Q6jIdx\njWJixtAEivvPr/fx5zit2zo9U1mpT7fpKlCH0Vbz9tQDN2pU59GY+D0810fexf7A\nogChUVcKoSQ9KNLSXGdguOtoHqLN4DvG+eIGWhQOcyyjUfpCV8zV6ZQ5CUwQF4B8\nuQ20MuUJ9cXid1zylMWNnJ5QwE60oVZdIuJfrrFEvVp+46z2mL0S1VevLPRpRBUg\nALdysCyCBIdyi2wNFV/ngr3vhpVRb6ehdYLJm06KsQKBgQDmh3Qv3e6e7erv6vjH\ntjw5cx2wZji9cW2BDsAt05vPsWl5vqihP8ETNN1IJiKvhbjmt5uNr/aGnyw0Lekd\nx06WoLZkKGyAgjLfwHzGXKxwHIFbVlfb+VlUGNXYnbi6ar4uPM5WxwcfN0zte7Zf\nC84cKalRn5LRWnT2qu9PMS6FywKBgQDCrP34KmsXyohI72gG9a/5MH6PwQZdrdCz\nVRk98jjf6RVX1jho/J/GJq83vmO/2lkuHihaEHuIgNwduTM22vSJDtV7AJsQcYXz\nLqi+KbWVFwqIwZzvJWFVh6uSoAUMHQn+0srK29usnjlzTWZ5DT5SgL+9H5oTlHKj\nTgxAHvNzsQKBgQCsD3+t1nSq1KMczQFAdoj+zCflqHZDF20G/Y585csOurkh8CcG\nq4IdJsDef/A1l5ZJRdNpbmOPWTByBa5P1pmWnX9kxDMvu33jOVUn7LWbu/rkxE4x\nVivRM/QwiI//O3qVIjdT15s+NlVJj6OvzyzYIlRJItQ/Q8e28CBLuEaj/wKBgAxD\nGTwob9Zvy2XMrqDBmPP5Of+UCPKdoCerlItyVmLEK7P8qlDymJ3CkgbQ1zeeaT+e\nZqxFnYJbm4HDyJYL9JstdATrZNkETYujxL01o1pguSkkCN6HXDom8YeqzKaWrap/\nXIaqkous67F3jpzRWLuZoHopI2tYTmA66kqfqHYBAoGAcLV6VHa1NWZesw75mrKs\nOjqJmu1sA83mXhGgemd0MlfthZWeALlPAnD9fU5RlH0Lzl3AtOL4h61CqrSyBzeI\nmAGlf5SV7kaMsaDYXlOliktzL0Q856IicqGZQU/wp+iBAbglTz2FBRCK5K20zfEr\n4zLjGoJrQco1UQMrgYd5VAU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow123@spartan-vine-311103.iam.gserviceaccount.com",
+  "client_id": "109252254165724003095",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow123%40spartan-vine-311103.iam.gserviceaccount.com"
+}

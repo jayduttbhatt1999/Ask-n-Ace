@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491078488",
+    "project_id": "career-3b851",
+    "storage_bucket": "career-3b851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491078488:android:7021c4dd3c44161a7fdb2d",
+        "android_client_info": {
+          "package_name": "com.example.councelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491078488-0trp15umk2dtcd2gt0neo8cajaa1npi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnfnK_Nj8eLBuTAvCxXkIiAMOjmPqA_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491078488-0trp15umk2dtcd2gt0neo8cajaa1npi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
